@@ -31,6 +31,7 @@ Menu Scanner App is a React Native application built using Expo. This app lets u
 - **Expo**: Framework and platform for universal React apps.
 - **Expo Router**: File-based routing for React Native.
 - **Google Vision API**: Optical character recognition (OCR) for text detection.
+- **Tesseract.js: Optical character recognition (OCR) for text detection.
 - **Google Custom Search API**: Fetch relevant dish images.
 - **OpenAI API**: Generate AI-based dish descriptions.
 
