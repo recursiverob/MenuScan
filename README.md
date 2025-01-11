@@ -1,3 +1,7 @@
+# Demo Video
+
+https://github.com/user-attachments/assets/86612159-75f8-4bd9-b062-85bd6e47ad2b
+
 # Menu Scanner App
 
 Menu Scanner App is a React Native application built using Expo. This app lets users scan menus using their phone's camera, recognize text, and display structured information such as dish names, descriptions, and prices. The app also fetches relevant images and generates descriptions using OpenAI's GPT API.
@@ -7,8 +11,7 @@ Menu Scanner App is a React Native application built using Expo. This app lets u
 - Many people who go out to eat at a restaurant sometimes struggle with deciding on what to order on the menu, the main reason being is because sometimes, the menu they are ordering from doesn't always display the image of the dish, resulting in indecisiveness of what to order, and stalling.
 
 ## Solution
-
-MenuScan allows users to scan a menu and displays images of the menu's dishes to help streamline and make ordering items easier.
+- MenuScan allows users to scan a menu and displays images of the menu's dishes to help streamline and make ordering items easier.
 ---
 
 ## Features
